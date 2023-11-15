@@ -33,8 +33,8 @@ class HomePageState extends State<HomePage> {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Container(
-                  width: 50,
-                  height: 50,
+                  width: 100,
+                  height: 3,
                   color: Colors.amber,
                 )
               ],
